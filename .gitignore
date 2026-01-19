@@ -1,0 +1,22 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Model files (optional: remove if you want to push them)
+
+*.pkl
+
+# Streamlit
+
+.streamlit/
+
+# OS
+
+.DS_Store
+Thumbs.db
